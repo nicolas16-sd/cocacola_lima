@@ -9,11 +9,12 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: #CF2425;
+    background: linear-gradient(#CF2425, #6a0101 50%, #6a0101 60%, #CF2425);
 }
 
 header, footer {
     height: 100px;
-    background-color: #CF2425;
     color: #FFFFFF;
     display: flex;
     align-items: center;
@@ -26,7 +27,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DA6062;
 }
 
 header {
@@ -66,7 +66,7 @@ main {
     color: #ffffff;
     font-size: 2.5rem;
     width: 240px;
-    transform: translateX(-100%);
+    transform: translateX(-120%);
     text-align: end;
 }
 
