@@ -67,3 +67,18 @@ header span {
     font-weight: 600;
 }
 
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding-left: 75px;
+    padding-right: 75px;
+    color: #ffffff;
+    font-weight: 100;
+}
+
+footer div {
+    width: 64px;
+}
+
