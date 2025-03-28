@@ -17,3 +17,4 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 [Nicolas dos Santos!]
 
 # fantauva_lima
+![](./Captura%20de%20Tela%202025-03-28%20às%2011.20.52.png)
